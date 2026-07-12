@@ -1,233 +1,475 @@
-# GitHub Profile 3D Contrib
+<div align="center">
 
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:4c1d95&height=260&section=header" width="100%"/>
 
-<!-- Language code order (except English) -->
-English (en) |
-[Deutsch (de)](docs/README.de.md) |
-[Español (es)](docs/README.es.md) |
-[Français (fr)](docs/README.fr.md) |
-[日本語 (ja)](docs/README.ja.md) |
-[한국어 (ko)](docs/README.ko.md) |
-[Português (pt-BR)](docs/README.pt-br.md) |
-[Português (pt)](docs/README.pt.md) |
-[Русский (ru)](docs/README.ru.md) |
-[简体中文 (zh-CN)](docs/README.zh-CN.md) |
-[繁體中文 (zh-TW)](docs/README.zh-TW.md) |
+<pre align="center">
+███╗   ███╗ █████╗ ███╗   ██╗██╗███████╗██╗  ██╗
+████╗ ████║██╔══██╗████╗  ██║██║██╔════╝██║  ██║
+██╔████╔██║███████║██╔██╗ ██║██║███████╗███████║
+██║╚██╔╝██║██╔══██║██║╚██╗██║██║╚════██║██╔══██║
+██║ ╚═╝ ██║██║  ██║██║ ╚████║██║███████║██║  ██║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝
 
-<!--
-> [!NOTE]
-> This translation was generated with machine translation.
-> It may contain errors or unnatural expressions.
-> Contributions to improve the translation are welcome!
- -->
+██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗ 
+██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
+█████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
+██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
+██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
+╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+</pre>
 
-## Overview
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI%2FML+Engineer;Full+Stack+Developer;Building+Scalable+Systems;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
 
-This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
+<br/>
 
-## How to use (GitHub Actions) - Basic
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-4c1d95?style=for-the-badge&logoColor=E9D5FF"/>
+<img src="https://img.shields.io/badge/Location-Alwar%2C%20Rajasthan%2C%20India-2d1b69?style=for-the-badge&logoColor=E9D5FF"/>
 
-This GitHub Action generates your github profile 3d contribution calendar and commits to your repo.
-After adding the GitHub Action, the workflow runs automatically once a day.
-You can also trigger the workflow manually.
+<br/><br/>
 
-### Step 1. Create special profile repository
+<a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Manish546-gif"><img src="https://img.shields.io/badge/GitHub-171321?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-Create a repository on GitHub with the same name as your username.
+<br/><br/>
 
-- For example, if the username is `octocat`, create a repository named `octocat/octocat`.
-- See also: [Managing your profile README](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+<img src="https://komarev.com/ghpvc/?username=Manish546-gif&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Manish546-gif?style=for-the-badge&color=6d28d9&labelColor=0f0524"/>
+<img src="https://img.shields.io/github/stars/Manish546-gif?style=for-the-badge&color=6d28d9&labelColor=0f0524"/>
 
-In this repository, follow the steps below.
+</div>
 
-### Step 2. Create workflow file
+<br/>
 
-Create a workflow file like the one below.
+<div align="center">
 
-- `.github/workflows/profile-3d.yml`
+──────  ⋆⋅☆⋅⋆  ──────
 
-```yaml:.github/workflows/profile-3d.yml
-name: GitHub-Profile-3D-Contrib
+</div>
 
-on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
-  workflow_dispatch:
+<div align="center">
 
-permissions:
-  contents: write
+<img src="https://img.shields.io/badge/ABOUT%20ME-0f0524?style=for-the-badge&logoColor=white"/>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          if git commit -m "generated"; then
-            git push
-          fi
-```
+</div>
 
-> [!NOTE]
-> You can change your GitHub settings to include contributions from private repositories. To change this setting, click `Contribution settings` in the top right of the standard contribution calendar, or click your icon in the top right of the screen, select `Settings` ⇒ `Public profile` ⇒ `Contributions & Activity`, and check `Include private contributions on my profile`.
->
-> If you want to include additional activities from private repositories, register a personal access token as a secret and set it to the `GITHUB_TOKEN` environment variable in the workflow file. However, in most cases the default `secrets.GITHUB_TOKEN` is sufficient.
-
-The schedule is set to run once a day by default.
-You can change the scheduled time as you like.
-
-This will add the workflow to your repository.
-
-#### Environment variables
-
-In the sample, only `GITHUB_TOKEN` and `USERNAME` are specified as environment variables, but you can specify the following environment variables:
-
-- `GITHUB_TOKEN` : (required) access token
-- `USERNAME` : (required) target username (or specify with an argument).
-- `MAX_REPOS` : (optional) max repositories, default 100 - since ver. 0.2.0
-- `SETTING_JSON` : (optional) settings json file path. See `sample-settings/*.json` and `src/type.ts` in `yoshi389111/github-profile-3d-contrib` repository for details. - since ver. 0.6.0
-- `GITHUB_ENDPOINT` : (optional) Github GraphQL endpoint. For example, if you want to create a contribution calendar based on your company's GitHub Enterprise activity instead of GitHub.com, set this environment variable. e.g. `https://github.mycompany.com/api/graphql` - since ver. 0.8.0
-- `YEAR` : (optional) For past calendars, specify the year. This is intended to be specified when running the tool from the command line. - since ver. 0.8.0
-
-#### About `GITHUB_TOKEN`
-
-The `secrets.GITHUB_TOKEN` set in the `GITHUB_TOKEN` environment variable in the sample is a special access token automatically created by GitHub.
-
-- GitHub Docs: [Use GITHUB_TOKEN for authentication in workflows](https://docs.github.com/en/actions/tutorials/authenticate-with-github_token)
-
-If you want to generate a contribution calendar for public repositories only, use this value.
-There is no need to create a secret manually.
-
-Also, if you want to include activity in your private repositories in your contribution calendar, check "Include private contributions on my profile" in the "Profile settings" section of "Public profile" in your profile settings.
-
-Furthermore, if you want to include additional activity information from private repositories, create an access token with the appropriate permissions.
-Register that access token as a secret with any name you like (For example, `MY_PERSONAL_ACCESS_TOKEN`).
-However, please note that user-created secrets cannot start with `GITHUB_`.
-
-- GitHub Docs: [Secrets](https://docs.github.com/en/actions/concepts/security/secrets)
-
-Set that secret as the value of the `GITHUB_TOKEN` environment variable.
-
-```diff
-          env:
--           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-+           GITHUB_TOKEN: ${{ secrets.MY_PERSONAL_ACCESS_TOKEN }}
-            USERNAME: ${{ github.repository_owner }}
-```
-
-#### About the time to schedule
-
-In the sample, it is set to start at 18:00 UTC.
-This is because it will run at midnight JST, which is the author's local time.
+<br/>
 
 ```yaml
-on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+engineer:
+  name: "Manish Kumar"
+  role: "Software Engineer · AI/ML Engineer · Full Stack Developer"
+  focus:
+    - Designing scalable, production-grade backend systems
+    - Building AI/ML pipelines from research to deployment
+    - Crafting performant, accessible full-stack applications
+    - Product-first engineering with a bias toward measurable impact
+  philosophy: "Engineering is the art of translating ambiguity into reliable systems."
 ```
 
-You can change it to any time you like.
-We recommend midnight (around 3am) your local time.
-However, please note that the time must be specified in UTC.
+I'm a software engineer specializing in **backend systems, distributed architecture, and applied AI/ML**. I care about writing code that is correct, observable, and built to scale — not just code that works on day one. My work spans from designing APIs and data pipelines to fine-tuning models and shipping them into production.
 
-### Step 3. Manually run this GitHub Action
+I approach engineering with a **product mindset** — every system I build is evaluated not just on technical elegance but on the real-world value it delivers.
 
-The first time, run this workflow manually.
+**Open To:**
 
-- `Actions` -> `GitHub-Profile-3D-Contrib` -> `Run workflow`
+<div align="center">
 
-The profile images are generated at the following paths:
+<img src="https://img.shields.io/badge/Full--Time-Software%20Engineering-2d1b69?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%2FML-Engineering%20Roles-4c1d95?style=flat-square"/>
+<img src="https://img.shields.io/badge/Freelance-Open-6d28d9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributing-7c3aed?style=flat-square"/>
 
-- `profile-3d-contrib/profile-green-animate.svg`
-- `profile-3d-contrib/profile-green.svg`
-- `profile-3d-contrib/profile-season-animate.svg`
-- `profile-3d-contrib/profile-season.svg`
-- `profile-3d-contrib/profile-south-season-animate.svg`
-- `profile-3d-contrib/profile-south-season.svg`
-- `profile-3d-contrib/profile-night-view.svg`
-- `profile-3d-contrib/profile-night-green.svg`
-- `profile-3d-contrib/profile-night-rainbow.svg`
-- `profile-3d-contrib/profile-gitblock.svg`
+</div>
 
-If you specify the `SETTING_JSON` environment variable without a `fileName` property in the json file, the following image will be generated:
+<br/>
 
-- `profile-3d-contrib/profile-customize.svg`
+<div align="center">
 
-You can use these images in your README.md as shown below.
+──────  ⋆⋅☆⋅⋆  ──────
 
-Example: green version
+</div>
 
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg)
+<div align="center">
 
-Example: season version (Northern Hemisphere.)
+<img src="https://img.shields.io/badge/TECH%20STACK-0f0524?style=for-the-badge&logoColor=white"/>
 
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-season-animate.svg)
+</div>
 
-Example: season version (Southern Hemisphere.)
+<br/>
 
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-south-season-animate.svg)
+<div align="center">
 
-Example: night view version
+**Languages**
 
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-view.svg)
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,go"/>
 
-Example: night green version
+**Frontend**
 
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css"/>
 
-Example: night rainbow version
+**Backend & Databases**
 
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis,graphql"/>
 
-Example: git block version
+**Cloud, DevOps & Tooling**
 
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,gcp,githubactions,git,linux,postman"/>
 
-### Step 4. Add image to README.md
+</div>
 
-Add the path to the generated image in your README file.
+<br/>
 
-Example:
+<div align="center">
 
-```md
-![](./profile-3d-contrib/profile-green-animate.svg)
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML%20EXPERTISE-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Machine Learning** | ●●●●○ | Supervised/unsupervised learning, model evaluation, scikit-learn |
+| **Deep Learning** | ●●●●○ | CNNs, RNNs, Transformers using PyTorch & TensorFlow |
+| **NLP** | ●●●●○ | Text classification, embeddings, LLM fine-tuning |
+| **LLM Engineering** | ●●●●● | Prompt engineering, RAG pipelines, agentic workflows |
+| **MLOps** | ●●●○○ | Model deployment, monitoring, CI/CD for ML systems |
+| **Computer Vision** | ●●●○○ | Image classification, object detection, OpenCV |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FEATURED%20PROJECTS-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>▸ AI Marketplace Assistant</b></summary>
+<br/>
+
+An AI-powered assistant built to support marketplace-style workflows, combining backend logic with intelligent, conversational features.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Python, AI/ML tooling |
+| **Scale** | Actively developed, extensible module design |
+| **Performance** | Optimized for responsive query handling |
+| **Security** | Input validation on all user-facing endpoints |
+| **Impact** | Foundation for AI-assisted commerce tooling |
+| **Repository** | [github.com/Manish546-gif/ai_marketplace_assistant](https://github.com/Manish546-gif/ai_marketplace_assistant) |
+
+Designed as a hands-on exploration of applying AI to real marketplace interactions, with a focus on clean module boundaries for future extension.
+
+</details>
+
+<details>
+<summary><b>▸ Refocuss Clone</b></summary>
+<br/>
+
+A front-end clone project rebuilding a modern productivity/focus web app, with attention to interaction detail and UI fidelity.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | JavaScript, HTML, CSS |
+| **Scale** | Single-page responsive web app |
+| **Performance** | Optimized asset loading and smooth animations |
+| **Security** | Client-side input sanitization |
+| **Impact** | Sharpened front-end craftsmanship and animation skills |
+| **Repository** | [github.com/Manish546-gif/Refocuss-clone](https://github.com/Manish546-gif/Refocuss-clone) |
+
+Built to closely replicate a live product's UX, focusing on pixel-accurate layout and smooth micro-interactions.
+
+</details>
+
+<details>
+<summary><b>▸ Obys Agency Project</b></summary>
+<br/>
+
+A creative front-end project inspired by award-winning agency websites, emphasizing scroll-based animation and visual storytelling.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | CSS, JavaScript |
+| **Scale** | Multi-section animated landing experience |
+| **Performance** | GPU-accelerated CSS animations |
+| **Security** | N/A — static front-end showcase |
+| **Impact** | Strengthened advanced CSS and motion design skills |
+| **Repository** | [github.com/Manish546-gif/obys-agency-project](https://github.com/Manish546-gif/obys-agency-project) |
+
+A design-driven build focused on replicating premium agency-style scroll interactions using pure CSS and vanilla JavaScript.
+
+</details>
+
+<br/>
+
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CODING%20PROFILES-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://leetcode.com/Manish546-gif"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://geeksforgeeks.org/user/Manish546-gif"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://hackerrank.com/Manish546-gif"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://codechef.com/users/Manish546-gif"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GITHUB%20ANALYTICS-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Manish546-gif&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true&cache_seconds=1800" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Manish546-gif&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish546-gif&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=C9D1D9&cache_seconds=1800" width="49%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GITHUB%20TROPHIES-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Manish546-gif&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8&row=1"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CONTRIBUTION%20ACTIVITY-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish546-gif&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=E9D5FF" width="95%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NOW%20PLAYING-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=A78BFA&bar_color_cover=true"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ON%20REPEAT-0f0524?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
+
+<i>Click a track to play it on Spotify</i>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Track | Artist | Play |
+|---|---|:---:|
+| Blinding Lights | The Weeknd | <a href="https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"><img src="https://img.shields.io/badge/▶-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a> |
+| As It Was | Harry Styles | <a href="https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"><img src="https://img.shields.io/badge/▶-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a> |
+| Shape of You | Ed Sheeran | <a href="https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"><img src="https://img.shields.io/badge/▶-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a> |
+| Levitating | Dua Lipa | <a href="https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"><img src="https://img.shields.io/badge/▶-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ARCADE-0f0524?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
+
+<i>Take a break — click to play</i>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://2048game.com"><img src="https://img.shields.io/badge/2048-A78BFA?style=for-the-badge&logo=htmlacademy&logoColor=white"/></a>
+<a href="https://www.nytimes.com/games/wordle/index.html"><img src="https://img.shields.io/badge/Wordle-8B5CF6?style=for-the-badge&logo=nyt&logoColor=white"/></a>
+<a href="https://www.chess.com/play/online"><img src="https://img.shields.io/badge/Chess-6D28D9?style=for-the-badge&logo=chessdotcom&logoColor=white"/></a>
+<a href="https://neal.fun/type-race/"><img src="https://img.shields.io/badge/Type%20Race-4c1d95?style=for-the-badge&logo=speedtest&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**GitHub Snake — powered by my own contribution graph**
+
+<img src="https://raw.githubusercontent.com/Manish546-gif/Manish546-gif/output/github-contribution-grid-snake-dark.svg" width="80%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CURRENT%20FOCUS-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
+
+```yaml
+current_focus:
+  learning:
+    - Advanced distributed systems design
+    - LLM agent orchestration frameworks
+    - Kubernetes operators and platform engineering
+  building:
+    - An open-source RAG evaluation toolkit
+    - A real-time collaboration platform side project
+  exploring:
+    - Rust for high-performance backend services
+    - Edge computing and serverless AI inference
+  open_to:
+    - Full-time Software Engineering roles
+    - AI/ML Engineering opportunities
+    - Impactful open-source collaborations
 ```
 
-## How to use (GitHub Actions) - Advanced examples
+<br/>
 
-- [More info in EXAMPLES.md](./EXAMPLES.md)
+<div align="center">
 
-## How to use (local)
+──────  ⋆⋅☆⋅⋆  ──────
 
-Set the `GITHUB_TOKEN` environment variable to your personal access token.
+</div>
 
-```sh
-export GITHUB_TOKEN=XXXXXXXXXXXXXXXXXXXXX
-```
+<div align="center">
 
-Run the following command, replacing `USER_NAME` with your GitHub username or the target username.
+<img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-0f0524?style=for-the-badge&logoColor=white"/>
 
-```sh
-node_modules/.bin/ts-node src/index.ts USER_NAME
-```
+<br/><br/>
 
-or
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Manish546-gif"><img src="https://img.shields.io/badge/GitHub-171321?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-```sh
-npm run build
-node . USER_NAME
-```
+</div>
 
-## License
+<br/>
 
-&copy; 2021 SATO Yoshiyuki. Licensed under the MIT License.
+<div align="center">
+
+*"Great software is not written, it is engineered — one deliberate decision at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:2d1b69,100:0f0524&height=150&section=footer" width="100%"/>
+
+</div>
