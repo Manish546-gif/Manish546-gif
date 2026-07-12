@@ -1,15 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:4c1d95&height=280&section=header&text=Manish%20Kumar&fontSize=60&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:4c1d95&height=260&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Engineering+Intelligent+Products;Full+Stack+%2B+AI%2FML+Engineer;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
+<pre align="center">
+███╗   ███╗ █████╗ ███╗   ██╗██╗███████╗██╗  ██╗
+████╗ ████║██╔══██╗████╗  ██║██║██╔════╝██║  ██║
+██╔████╔██║███████║██╔██╗ ██║██║███████╗███████║
+██║╚██╔╝██║██╔══██║██║╚██╗██║██║╚════██║██╔══██║
+██║ ╚═╝ ██║██║  ██║██║ ╚████║██║███████║██║  ██║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝
+
+██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗ 
+██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
+█████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
+██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
+██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
+╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+</pre>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI%2FML+Engineer;Full+Stack+Developer;Building+Scalable+Systems;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
 
 <br/>
 
-![Academic](https://img.shields.io/badge/B.Tech-Computer%20Science-4c1d95?style=for-the-badge&logo=googlescholar&logoColor=E9D5FF)
-![Location](https://img.shields.io/badge/Location-Alwar%2C%20Rajasthan%2C%20India-2d1b69?style=for-the-badge&logo=googlemaps&logoColor=E9D5FF)
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-4c1d95?style=for-the-badge&logoColor=E9D5FF"/>
+<img src="https://img.shields.io/badge/Location-Alwar%2C%20Rajasthan%2C%20India-2d1b69?style=for-the-badge&logoColor=E9D5FF"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -18,15 +34,27 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Manish546-gif&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Manish546-gif?style=for-the-badge&color=6d28d9&labelColor=0f0524)
-![Stars](https://img.shields.io/github/stars/Manish546-gif?style=for-the-badge&color=6d28d9&labelColor=0f0524)
+<img src="https://komarev.com/ghpvc/?username=Manish546-gif&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Manish546-gif?style=for-the-badge&color=6d28d9&labelColor=0f0524"/>
+<img src="https://img.shields.io/github/stars/Manish546-gif?style=for-the-badge&color=6d28d9&labelColor=0f0524"/>
 
 </div>
 
----
+<br/>
 
-## 🧠 About Me
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ABOUT%20ME-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
 
 ```yaml
 engineer:
@@ -44,60 +72,100 @@ I'm a software engineer specializing in **backend systems, distributed architect
 
 I approach engineering with a **product mindset** — every system I build is evaluated not just on technical elegance but on the real-world value it delivers.
 
-**🎯 Open To:**
+**Open To:**
 
 <div align="center">
 
-![Full Time](https://img.shields.io/badge/Full--Time-Software%20Engineering-2d1b69?style=flat-square)
-![AI Roles](https://img.shields.io/badge/AI%2FML-Engineering%20Roles-4c1d95?style=flat-square)
-![Freelance](https://img.shields.io/badge/Freelance-Open-6d28d9?style=flat-square)
-![OSS](https://img.shields.io/badge/Open%20Source-Contributing-7c3aed?style=flat-square)
+<img src="https://img.shields.io/badge/Full--Time-Software%20Engineering-2d1b69?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%2FML-Engineering%20Roles-4c1d95?style=flat-square"/>
+<img src="https://img.shields.io/badge/Freelance-Open-6d28d9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributing-7c3aed?style=flat-square"/>
 
 </div>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TECH%20STACK-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 **Languages**
 
-![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Java](https://skillicons.dev/icons?i=java) ![Cpp](https://skillicons.dev/icons?i=cpp) ![Go](https://skillicons.dev/icons?i=go)
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,go"/>
 
 **Frontend**
 
-![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![Redux](https://skillicons.dev/icons?i=redux) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css"/>
 
 **Backend & Databases**
 
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Django](https://skillicons.dev/icons?i=django) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis) ![GraphQL](https://skillicons.dev/icons?i=graphql)
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis,graphql"/>
 
 **Cloud, DevOps & Tooling**
 
-![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![GCP](https://skillicons.dev/icons?i=gcp) ![GithubActions](https://skillicons.dev/icons?i=githubactions) ![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux) ![Postman](https://skillicons.dev/icons?i=postman)
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,gcp,githubactions,git,linux,postman"/>
 
----
+</div>
 
-## 🤖 AI / ML Expertise
+<br/>
+
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML%20EXPERTISE-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Machine Learning** | ⭐⭐⭐⭐☆ | Supervised/unsupervised learning, model evaluation, scikit-learn |
-| **Deep Learning** | ⭐⭐⭐⭐☆ | CNNs, RNNs, Transformers using PyTorch & TensorFlow |
-| **NLP** | ⭐⭐⭐⭐☆ | Text classification, embeddings, LLM fine-tuning |
-| **LLM Engineering** | ⭐⭐⭐⭐⭐ | Prompt engineering, RAG pipelines, agentic workflows |
-| **MLOps** | ⭐⭐⭐☆☆ | Model deployment, monitoring, CI/CD for ML systems |
-| **Computer Vision** | ⭐⭐⭐☆☆ | Image classification, object detection, OpenCV |
+| **Machine Learning** | ●●●●○ | Supervised/unsupervised learning, model evaluation, scikit-learn |
+| **Deep Learning** | ●●●●○ | CNNs, RNNs, Transformers using PyTorch & TensorFlow |
+| **NLP** | ●●●●○ | Text classification, embeddings, LLM fine-tuning |
+| **LLM Engineering** | ●●●●● | Prompt engineering, RAG pipelines, agentic workflows |
+| **MLOps** | ●●●○○ | Model deployment, monitoring, CI/CD for ML systems |
+| **Computer Vision** | ●●●○○ | Image classification, object detection, OpenCV |
 
 </div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FEATURED%20PROJECTS-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
 
 <details>
-<summary><b>🔹 AI Marketplace Assistant</b></summary>
+<summary><b>▸ AI Marketplace Assistant</b></summary>
 <br/>
 
 An AI-powered assistant built to support marketplace-style workflows, combining backend logic with intelligent, conversational features.
@@ -116,7 +184,7 @@ Designed as a hands-on exploration of applying AI to real marketplace interactio
 </details>
 
 <details>
-<summary><b>🔹 Refocuss Clone</b></summary>
+<summary><b>▸ Refocuss Clone</b></summary>
 <br/>
 
 A front-end clone project rebuilding a modern productivity/focus web app, with attention to interaction detail and UI fidelity.
@@ -135,7 +203,7 @@ Built to closely replicate a live product's UX, focusing on pixel-accurate layou
 </details>
 
 <details>
-<summary><b>🔹 Obys Agency Project</b></summary>
+<summary><b>▸ Obys Agency Project</b></summary>
 <br/>
 
 A creative front-end project inspired by award-winning agency websites, emphasizing scroll-based animation and visual storytelling.
@@ -153,9 +221,21 @@ A design-driven build focused on replicating premium agency-style scroll interac
 
 </details>
 
----
+<br/>
 
-## 💼 Experience
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/EXPERIENCE-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
 
 ### Software Engineer — Your Company Name
 **Month Year – Present**
@@ -180,82 +260,154 @@ Contributed to core product features under the mentorship of senior engineers.
 
 **Skills:** `JavaScript` `React` `REST APIs` `Git`
 
----
+<br/>
 
-## 🏆 Achievements
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ACHIEVEMENTS-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| 🥇 Hackathon Winner | 1st Place, [Hackathon Name] — AI-powered solution among 200+ teams |
-| 🎓 Academic Excellence | Top 5% of graduating class, B.Tech CSE |
-| 📝 Research Publication | Co-authored paper on [topic] at [conference/journal] |
-| 🌟 Open Source Contributor | 500+ contributions across public repositories |
+| Hackathon Winner | 1st Place, [Hackathon Name] — AI-powered solution among 200+ teams |
+| Academic Excellence | Top 5% of graduating class, B.Tech CSE |
+| Research Publication | Co-authored paper on [topic] at [conference/journal] |
+| Open Source Contributor | 500+ contributions across public repositories |
 
 </div>
 
----
+<br/>
 
-## 📜 Certifications
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CERTIFICATIONS-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
 
 **AWS**
 
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![AWS Certified Developer](https://img.shields.io/badge/AWS-Certified%20Developer-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+<img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/AWS-Certified%20Developer-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 
 **Oracle**
 
-![Oracle Cloud Certified](https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 **NPTEL**
 
-![NPTEL Data Structures](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-4c1d95?style=for-the-badge&logo=googlescholar&logoColor=white)
-![NPTEL Machine Learning](https://img.shields.io/badge/NPTEL-Machine%20Learning-4c1d95?style=for-the-badge&logo=googlescholar&logoColor=white)
+<img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-4c1d95?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-Machine%20Learning-4c1d95?style=for-the-badge&logoColor=white"/>
 
 **Cisco**
 
-![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA%20Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+<img src="https://img.shields.io/badge/Cisco-CCNA%20Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
----
-
-## 💻 Coding Profiles
+<br/>
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Manish546-gif)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/Manish546-gif)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/Manish546-gif)
-[![CodeChef](https://img.shields.io/badge/CodeChef-4%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/Manish546-gif)
+──────  ⋆⋅☆⋅⋆  ──────
 
 </div>
-
----
-
-## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manish546-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=Manish546-gif&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish546-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
+<img src="https://img.shields.io/badge/CODING%20PROFILES-0f0524?style=for-the-badge&logoColor=white"/>
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
+<br/>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Manish546-gif&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,PullRequest,Followers,Repositories" />
+<a href="https://leetcode.com/Manish546-gif"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://geeksforgeeks.org/user/Manish546-gif"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://hackerrank.com/Manish546-gif"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://codechef.com/users/Manish546-gif"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
 </div>
 
----
+<br/>
 
-## 📈 Contribution Activity
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GITHUB%20ANALYTICS-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Manish546-gif&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true&cache_seconds=1800" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Manish546-gif&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish546-gif&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=C9D1D9&cache_seconds=1800" width="49%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GITHUB%20TROPHIES-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Manish546-gif&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8&row=1"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CONTRIBUTION%20ACTIVITY-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -263,9 +415,21 @@ Contributed to core product features under the mentorship of senior engineers.
 
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Snake
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CONTRIBUTION%20SNAKE-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -273,9 +437,21 @@ Contributed to core product features under the mentorship of senior engineers.
 
 </div>
 
----
+<br/>
 
-## 🎯 Current Focus
+<div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CURRENT%20FOCUS-0f0524?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
 
 ```yaml
 current_focus:
@@ -295,11 +471,19 @@ current_focus:
     - Impactful open-source collaborations
 ```
 
----
-
-## 🤝 Connect With Me
+<br/>
 
 <div align="center">
+
+──────  ⋆⋅☆⋅⋆  ──────
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-0f0524?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
 
 <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -308,7 +492,7 @@ current_focus:
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
